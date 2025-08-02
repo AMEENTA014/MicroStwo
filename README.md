@@ -1,6 +1,7 @@
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="55" height="55" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" /></div>
 <img src="https://skillicons.dev/icons?i=js,nodejs,docker,kubernetes,aws,githubactions,postgresql,linux" />
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+
 [![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
