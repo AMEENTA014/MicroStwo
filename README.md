@@ -4,7 +4,7 @@
 
 
   
-[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)  
+ 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,5 +16,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)  
+
+[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev) 
 
