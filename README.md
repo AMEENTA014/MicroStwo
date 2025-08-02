@@ -3,7 +3,8 @@
 <img src="https://skillicons.dev/icons?i=js,nodejs,docker,kubernetes,aws,githubactions,postgresql,linux" />  
 
   
-[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)  
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
