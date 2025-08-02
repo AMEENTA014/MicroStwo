@@ -2,6 +2,7 @@
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="55" height="55" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" /></div>
 <img src="https://skillicons.dev/icons?i=js,nodejs,docker,kubernetes,aws,githubactions,postgresql,linux" />  
 
+
   
 [![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)  
 
